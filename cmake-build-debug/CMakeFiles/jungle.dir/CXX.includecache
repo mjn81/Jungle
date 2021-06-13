@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Clone/Jungle/Animal.h
+
+D:/Clone/Jungle/DomesticAnimal.h
+Animal.h
+D:/Clone/Jungle/Animal.h
+
+D:/Clone/Jungle/Jungle.h
+Animal.h
+D:/Clone/Jungle/Animal.h
+
+D:/Clone/Jungle/Pet.h
+Animal.h
+D:/Clone/Jungle/Animal.h
+
+D:/Clone/Jungle/WildAnimal.h
+Animal.h
+D:/Clone/Jungle/Animal.h
+
+D:/Clone/Jungle/main.cpp
+iostream
+-
+Jungle.h
+D:/Clone/Jungle/Jungle.h
+WildAnimal.h
+D:/Clone/Jungle/WildAnimal.h
+DomesticAnimal.h
+D:/Clone/Jungle/DomesticAnimal.h
+Pet.h
+D:/Clone/Jungle/Pet.h
+
